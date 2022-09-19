@@ -26,9 +26,9 @@ MM HTTP offer that ability.
 
     <dependencies>
         <dependency>
-            <groupId>com.devcolibri</groupId>
-            <artifactId>com.devcolibri.newlib</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>ru.ancap</groupId>
+            <artifactId>simple-http-server</artifactId>
+            <version>1.0</version>
         </dependency>
     </dependencies>
 
